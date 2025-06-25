@@ -58,7 +58,7 @@ def number_guessing_game():
 
     # ループが終了（回数制限に達した場合）
     else:
-        print("\nゲームオーバーです。")
+        print("\nゲームオーバー")
         print(f"正解の数字は {answer} でした。")
 
 # ゲームを開始
